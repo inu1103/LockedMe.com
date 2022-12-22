@@ -1,8 +1,6 @@
 # LockedMe.com
 A one stop solution to all of your files
 
-Virtual Key for Your Repositories
-Course-end Project 1
 
 DESCRIPTION
 
